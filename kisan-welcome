@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Agro Connect - Offered to Indian Farmers</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f3f9f1;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #2e7d32;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+
+    main {
+      padding: 2rem;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 2rem;
+      color: #2e7d32;
+    }
+
+    p {
+      font-size: 1.2rem;
+      max-width: 600px;
+      margin: 1rem auto;
+      color: #333;
+    }
+
+    footer {
+      background-color: #e0e0e0;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Agro Connect</h1>
+    <p>Offered to Indian Farmers</p>
+  </header>
+
+  <main>
+    <h2>Welcome to Agro Connect</h2>
+    <p>Connecting Indian farmers with modern tools, market access, and information to boost agricultural productivity and income.</p>
+  </main>
+
+  <footer>
+    &copy; 2025 Agro Connect. All rights reserved.
+  </footer>
+</body>
+</html>
